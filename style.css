@@ -214,26 +214,13 @@ body {
     transform: translateY(-2px);
 }
 
-.btn-secondary {
-    background: transparent;
-    color: white;
-    border: 2px solid white;
-}
 
 .btn-secondary:hover {
     background: white;
     color: #2563eb;
-}
-.btn-thirdly {
-    background: transparent;
-    color: white;
-    border: 2px solid white;
-}
-.btn-thirdly:hover {
-    background: white;
-    color: #2563eb;
     transform: translateY(-2px);
 }
+
 .hero-image {
   display: flex;
   justify-content: center;
