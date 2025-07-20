@@ -217,7 +217,7 @@ body {
 
 .btn-secondary:hover {
     background: white;
-    color: #2563eb;
+    color: black;
     transform: translateY(-2px);
 }
 
